@@ -4,11 +4,6 @@
 - 🌱 Atualmente estou aprendendo NodeJS
 - 😄 Pronomes: ele/dele
 
-<div><br>
- <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Alisson-dev7&show_icons=true&theme=transparent'>
-<img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-dev7&layout=compact&theme=transparent'>
-</div>
-
 ## Ferramentas e linguagens
 <div><br>
   <img height='40em' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
