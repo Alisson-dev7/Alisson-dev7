@@ -1,7 +1,7 @@
 ## Eu sou o Alisson
 
 - 🖥️ Desenvolvedor Full Stack
-- 🌱 Atualmente estou aprendendo NodeJS
+- 🌱 Atualmente estou aprendendo NestJS
 - 😄 Pronomes: ele/dele
 
 ## Ferramentas e linguagens
